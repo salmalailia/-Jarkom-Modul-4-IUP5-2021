@@ -15,7 +15,7 @@ Topology
 
 On GNS3
 
-<img width="769" alt="GNS3" src="https://user-images.githubusercontent.com/73702347/143039453-da21e550-acc7-40db-b87a-eb3b3f17eda8.png">
+![image](https://user-images.githubusercontent.com/73702347/143544712-fd2979cb-e404-420e-ba10-8e61ab7f1a00.png)
 
 On CPT
 
